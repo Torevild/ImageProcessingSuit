@@ -1,0 +1,8 @@
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\bin\Debug\ImageProcessingSuit.exe.config
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\bin\Debug\ImageProcessingSuit.exe
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\bin\Debug\ImageProcessingSuit.pdb
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\bin\Debug\ImageProcessing.Contracts.dll
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\bin\Debug\ImageProcessing.Contracts.pdb
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\obj\Debug\ImageProcessingSuit.csprojResolveAssemblyReference.cache
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\obj\Debug\ImageProcessingSuit.exe
+D:\VSProjects\ImageProcessingSuit\ImageProcessingSuit\obj\Debug\ImageProcessingSuit.pdb
